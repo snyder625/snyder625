@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 # GitHub Statistics
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snyder625&show_icons=true&locale=en" alt="Snyder625" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyder625&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" style="margin-top:60px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyder625&show_icons=true&hide_border=false" width="350" style="margin-top:60px" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snyder625&" alt="snyder625" /></p>
 
