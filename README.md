@@ -23,3 +23,4 @@ Here are some ideas to get you started: -->
 # GitHub Statistics
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snyder625&show_icons=true&locale=en" alt="Snyder625" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snyder625&" alt="snyder625" /></p>
