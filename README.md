@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rizwan Ahmed - Undergrad Software Engineer 👩🏻‍💻
+# Hi there 👋 I'm Rizwan Ahmed - Undergrad Software Engineer 👩🏻‍💻
 
 <!--
 **snyder625/snyder625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning Blockchain and Web 3.0
 - 👯 I’m looking to collaborate on Web Projects
+- 🤔 My interests are Full stack software development, Blockchain, Cyber Security.
 
 ### Connect with me:
 
