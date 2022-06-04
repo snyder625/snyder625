@@ -13,11 +13,4 @@ Here are some ideas to get you started: -->
 
 ### Connect with me:
 
-[![website](./Images/twitter-light.svg)](https://twitter.com/Rizwanahmed625#gh-light-mode-only)
-[![website](./Images/twitter-dark.svg)](https://twitter.com/Rizwanahmed625#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./Images/linkedin-light.svg)](https://linkedin.com/in/Rizwanahmed625#gh-light-mode-only)
-[![website](./Images/linkedin-dark.svg)](https://linkedin.com/in/Rizwanahmed625#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./Images/instagram-light.svg)](https://instagram.com/Rizwanahmed625#gh-light-mode-only)
-[![website](./Images/instagram-dark.svg)](https://instagram.com/Rizwanahmed625#gh-dark-mode-only)
+<a href="https://linkedin.com/in/Rizwanahmed625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-jamil-4b99051ba/" height="30" width="40" /></a>
