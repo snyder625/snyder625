@@ -8,9 +8,9 @@ Hi there, I'm **Rizwan Ahmed**, a **Software Engineering student** 👨‍💻 f
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m currently learning Blockchain and Web 3.0.
+- 🌱 I’m currently learning .NET.
 - 👯 I’m looking to collaborate on Web Projects.
-- 🤔 My interests are Full stack software development, Blockchain, Cloud Computing.
+- 🤔 My interests are Full stack software development and Cloud Computing.
 
 ### Connect with me:
 
