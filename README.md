@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rizwan!
 
-Hi there, I'm **Rizwan Ahmed**, a **Software Engineering student** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to web development and Cloud computing.
+Hi there, I'm **Rizwan Ahmed**, a **Software Engineer** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to web development and Cloud computing.
 
 <!--
 **snyder625/snyder625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
