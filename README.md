@@ -40,8 +40,7 @@ Here are some ideas to get you started: -->
 
 # GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snyder625&show_icons=true&locale=en" alt="Snyder625" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyder625&show_icons=true&hide_border=false" width="350" style="margin-top:60px" />
+<img align="center" alt="Rizwan's most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snyder625&layout=compact&langs_count=9&theme=transparent&bg_color=00000000&text_color=bfced6&hide_border=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snyder625&" alt="snyder625" /></p>
 
